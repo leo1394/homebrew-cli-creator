@@ -1,0 +1,17 @@
+{
+  "name": "homebrew-cli-creator",
+  "version": "0.1.0",
+  "description": "Build discoverable Homebrew CLIs with completions, manuals, bilingual docs, branding, and standalone installation.",
+  "author": {
+    "name": "Homebrew CLI Creator contributors"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "homebrew",
+    "cli",
+    "agent-skills",
+    "shell",
+    "rust",
+    "go"
+  ]
+}

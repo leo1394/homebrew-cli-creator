@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homebrew CLI Creator"
+  short_description: "Build discoverable CLIs with complete Homebrew packaging"
+  default_prompt: "Use $homebrew-cli-creator to create a CLI with completions, manuals, bilingual docs, branding, and installation support."
